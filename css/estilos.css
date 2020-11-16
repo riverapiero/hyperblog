@@ -7,6 +7,14 @@ body
     margin: 0;
     padding: 0; 
 }
+#cabecera
+{
+    background: rgb(99, 10, 10);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
 #container 
 {
     width: 70%;
